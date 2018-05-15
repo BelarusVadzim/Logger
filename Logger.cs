@@ -41,5 +41,10 @@ namespace Logger
                 sw.WriteLine(Message);
             }
         }
+
+        private void Test()
+        {
+
+        }
     }
 }
